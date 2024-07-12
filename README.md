@@ -4,7 +4,7 @@
 Este projeto tem por objetivo apresentar uma introdução sobre o problema dos incêndios florestais no Brasil para sensibilização e conscientização da sociedade
 
 ## 🤖 Tecnologias Utilizadas
-Gamma App é uma ferramenta de inteligência artificial para cirar apresentações, documentos e páginas web de forma rápida e intuitiva
+Gamma App é uma ferramenta de inteligência artificial para crIar apresentações, documentos e páginas web de forma rápida e intuitiva
 (https://gamma.app/create)
 
 ## 🧐 Processo de Criação
